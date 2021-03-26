@@ -3,7 +3,7 @@ A simple RESTful web app with stack: Node.js, Express, MongoDB
 
 ## Goals 
 The goals of this project are:
-* Become acquanted with REST
+* Become acquainted with REST
 * Store and retrieve JSON data in MongoDB using HTTP POST and HTTP GET
 * Remove data from the collection using HTTP DELETE
 * Use AJAX for data operations
